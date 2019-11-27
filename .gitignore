@@ -1,0 +1,12 @@
+*._.DS_Store
+*._01_Schematic
+* Layout
+*._05_BOM List
+*._03_Gerber
+/PCB/ESP8266_DOC/ESP-WROOM-02DC Reference Design/__MACOSX/
+/PCB/ESP8266_DOC/ESP8266-DevKitC-V1.0_reference_design/__MACOSX/
+*.DS_Store
+/PCB/ESP8266_SCH/__Previews/
+*.Zip
+*.LOG
+/PCB/ESP8266_PCB/__Previews/
